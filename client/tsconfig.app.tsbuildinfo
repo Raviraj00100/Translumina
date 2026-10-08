@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/cameramodal.tsx","./src/components/healthmodal.tsx","./src/components/languageselectormodal.tsx","./src/config/languages.ts","./src/hooks/usespeechrecognition.ts","./src/hooks/usetexttospeech.ts","./src/hooks/usetranslation.ts"],"version":"5.9.3"}
